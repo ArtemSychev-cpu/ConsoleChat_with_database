@@ -5,7 +5,7 @@ int main() {
 
 	Sleep(3000);
 
-	std::string ip{ "127.0.0.1" };
+	std::string ip{ "192.168.0.13" };
 	uint16_t port{ 5555 };
 
 	Chat chat(ip, port);

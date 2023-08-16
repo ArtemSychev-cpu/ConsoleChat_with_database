@@ -1,7 +1,5 @@
 #pragma once
-
 #include "Client.h"
-
 #include <string>
 #include <iostream>
 
